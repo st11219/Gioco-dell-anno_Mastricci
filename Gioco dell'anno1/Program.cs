@@ -24,7 +24,7 @@ namespace Gioco_dell_anno1
         {        
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            wApplication.Run(new Form1());
+            Application.Run(new Form1());
         }
     }
 }
