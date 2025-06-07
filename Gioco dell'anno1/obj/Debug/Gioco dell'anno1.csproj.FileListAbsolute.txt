@@ -1,0 +1,36 @@
+C:\Users\MARCO\IIS MARCONI PIERALISI - JESI\CACCIAMANI LUCA - Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\bin\Debug\Gioco dell'anno1.exe.config
+C:\Users\MARCO\IIS MARCONI PIERALISI - JESI\CACCIAMANI LUCA - Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\bin\Debug\Gioco dell'anno1.exe
+C:\Users\MARCO\IIS MARCONI PIERALISI - JESI\CACCIAMANI LUCA - Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\bin\Debug\Gioco dell'anno1.pdb
+C:\Users\MARCO\IIS MARCONI PIERALISI - JESI\CACCIAMANI LUCA - Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco dell'anno1.csproj.AssemblyReference.cache
+C:\Users\MARCO\IIS MARCONI PIERALISI - JESI\CACCIAMANI LUCA - Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco_dell_anno1.Form1.resources
+C:\Users\MARCO\IIS MARCONI PIERALISI - JESI\CACCIAMANI LUCA - Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco_dell_anno1.Form2.resources
+C:\Users\MARCO\IIS MARCONI PIERALISI - JESI\CACCIAMANI LUCA - Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco_dell_anno1.Properties.Resources.resources
+C:\Users\MARCO\IIS MARCONI PIERALISI - JESI\CACCIAMANI LUCA - Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco dell'anno1.csproj.GenerateResource.cache
+C:\Users\MARCO\IIS MARCONI PIERALISI - JESI\CACCIAMANI LUCA - Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco dell'anno1.csproj.CoreCompileInputs.cache
+C:\Users\MARCO\IIS MARCONI PIERALISI - JESI\CACCIAMANI LUCA - Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco dell'anno1.exe
+C:\Users\MARCO\IIS MARCONI PIERALISI - JESI\CACCIAMANI LUCA - Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco dell'anno1.pdb
+C:\Users\st11106\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\bin\Debug\Gioco dell'anno1.exe.config
+C:\Users\st11106\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\bin\Debug\Gioco dell'anno1.exe
+C:\Users\st11106\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\bin\Debug\Gioco dell'anno1.pdb
+C:\Users\st11106\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco_dell_anno1.Form1.resources
+C:\Users\st11106\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco_dell_anno1.Form2.resources
+C:\Users\st11106\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco_dell_anno1.Properties.Resources.resources
+C:\Users\st11106\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco dell'anno1.csproj.GenerateResource.cache
+C:\Users\st11106\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco dell'anno1.csproj.CoreCompileInputs.cache
+C:\Users\st11106\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco dell'anno1.exe
+C:\Users\st11106\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco dell'anno1.pdb
+C:\Users\st11106\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco dell'anno1.csprojAssemblyReference.cache
+C:\Users\Caccia\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\bin\Debug\Gioco dell'anno1.exe.config
+C:\Users\Caccia\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\bin\Debug\Gioco dell'anno1.exe
+C:\Users\Caccia\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\bin\Debug\Gioco dell'anno1.pdb
+C:\Users\Caccia\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco_dell_anno1.Form1.resources
+C:\Users\Caccia\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco_dell_anno1.Form2.resources
+C:\Users\Caccia\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco_dell_anno1.Form3.resources
+C:\Users\Caccia\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco_dell_anno1.Properties.Resources.resources
+C:\Users\Caccia\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco dell'anno1.csproj.GenerateResource.cache
+C:\Users\Caccia\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco dell'anno1.csproj.CoreCompileInputs.cache
+C:\Users\Caccia\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco dell'anno1.exe
+C:\Users\Caccia\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco dell'anno1.pdb
+C:\Users\Caccia\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco dell'anno1.csproj.AssemblyReference.cache
+C:\Users\MARCO\IIS MARCONI PIERALISI - JESI\CACCIAMANI LUCA - Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco_dell_anno1.Form3.resources
+C:\Users\st11106\OneDrive - IIS MARCONI PIERALISI - JESI\Gioco dll'anno\Gioco dell'anno\Gioco dell'anno1\Gioco dell'anno1\obj\Debug\Gioco_dell_anno1.Form3.resources
