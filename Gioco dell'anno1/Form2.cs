@@ -78,27 +78,24 @@ namespace Gioco_dell_anno1
         public Form2(Form1 chiamante)
         {
             InitializeComponent();
+            //variabile che serve per passare da un form all altro
             formChiamante = chiamante;
             this.DoubleBuffered = true;
             // Abilita la ricezione degli eventi da tastiera
             this.KeyPreview = true;
             // Collega l'evento KeyDown (pressione tasto)
             this.KeyDown += Form2_KeyDown;
-            // Avvia il timer creato dal designer
+            // Avvia i timer 
             timer1.Start();
             timer2.Start();        
             // Impostazioni per il fullscreen forzato
             this.FormBorderStyle = FormBorderStyle.None;
             this.WindowState = FormWindowState.Maximized;
             this.TopMost = true;
-            label1.Text = Convert.ToString(this.ClientSize.Height);
-            label_punteggio.Location = new Point(0, 1000);
+            label_punteggio.Location = new Point(0, 1000);//posizione della label per il punteggio
 
             
         }
-
-
-
 
 
         #region FunzioneTasti
@@ -118,8 +115,11 @@ namespace Gioco_dell_anno1
                 formChiamante.Show();  // Mostra Form1
                 this.Close(); // Chiude la finestra
             }
-            #endregion
+            
         }
+        #endregion
+
+
         private void timer1_Tick_1(object sender, EventArgs e)
         {
             check_punteggio++;
@@ -128,11 +128,11 @@ namespace Gioco_dell_anno1
                 Punteggio += 10;
                 check_punteggio = 0;
             }
-
+            //aggiornamento label con punteggio
             label_punteggio.Text = "Il tuo punteggio è: " + Punteggio;
 
-            
-                switch (tempo_camminata)
+            //controllo per verificare la sprite da assegnare in base al valore della variabile tempo_camminata
+            switch (tempo_camminata)
                 {
                     case 1:
                         sergio = Image.FromFile("Sprite_running1.png");
@@ -147,7 +147,8 @@ namespace Gioco_dell_anno1
 
                         break;
                 }
-                if (velocityY > 0)
+            //controllo per verificare la sprite da assegnare in base al valore della variabile velocityY
+            if (velocityY > 0)
                     sergio = Image.FromFile("Sprite_Jump2.png");
                 else sergio = Image.FromFile("Sprite_Jump.png");
 
@@ -157,7 +158,7 @@ namespace Gioco_dell_anno1
                 // Aggiorna la posizione verticale
                 playerY += (int)velocityY;
                
-                int groundY = 687;
+                int groundY = 687;//uso di una variabile per le coordinate del terreno
 
                 // Se la sprite tocca terra, resetta il salto
                 if (playerY >= groundY)
@@ -211,17 +212,21 @@ namespace Gioco_dell_anno1
                 fileR.Close();
                 if (Program.VariabiliGlobali.CheckE == true)
                 {
-                    righe[Program.VariabiliGlobali.Check] = null;
-                    righe[Program.VariabiliGlobali.Check] = Program.VariabiliGlobali.NomeUtente + ";" + Punteggio;
+                    
+                    try {
+                        righe[Program.VariabiliGlobali.Check] = null;
+                        righe[Program.VariabiliGlobali.Check] = Program.VariabiliGlobali.NomeUtente + ";" + Punteggio;
 
-                    StreamWriter file = new StreamWriter("Salvataggi.txt");
-                    try { File.WriteAllLines("Salvataggi.txt", righe); }
+                        StreamWriter file = new StreamWriter("Salvataggi.txt");
+                        File.WriteAllLines("Salvataggi.txt", righe);
+                        file.Close();
+                    }
                     catch (Exception s)
                     {
                         MessageBox.Show("Tipo di errore: " + s.ToString());
                     }
                                                                                                        
-                    file.Close();
+                    
                 }
                 else
                 {
@@ -238,7 +243,7 @@ namespace Gioco_dell_anno1
                 }         
             }
 
-            if (Punteggio == 5000)
+            if (Punteggio == 200)
             {
                 this.Close();
                 Form3 giocoL2 = new Form3(formChiamante);
@@ -257,7 +262,7 @@ namespace Gioco_dell_anno1
         private void Painteve(object sender, PaintEventArgs e)
         {
             Graphics canvas = e.Graphics;
-            if(Punteggio<5000)
+            if(Punteggio<200    )
             canvas.DrawImage(Sfondo, 0, 0, this.ClientSize.Width, this.ClientSize.Height);
             else
             {               

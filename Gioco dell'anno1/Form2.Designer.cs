@@ -33,7 +33,6 @@ namespace Gioco_dell_anno1
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.timer2 = new System.Windows.Forms.Timer(this.components);
             this.label_punteggio = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // timer1
@@ -57,21 +56,11 @@ namespace Gioco_dell_anno1
             this.label_punteggio.TabIndex = 0;
             this.label_punteggio.Text = "label1";
             // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(560, 217);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "label1";
-            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.label_punteggio);
             this.Name = "Form2";
             this.Text = "Form2";
@@ -86,6 +75,5 @@ namespace Gioco_dell_anno1
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.Timer timer2;
         public System.Windows.Forms.Label label_punteggio;
-        private System.Windows.Forms.Label label1;
     }
 }

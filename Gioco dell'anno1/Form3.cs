@@ -227,18 +227,22 @@ namespace Gioco_dell_anno1
 
                     if (Program.VariabiliGlobali.CheckE == true)
                     {
-                    righe[Program.VariabiliGlobali.Check] = null;
+                    try
+                    {
+                        righe[Program.VariabiliGlobali.Check] = null;
                     righe[Program.VariabiliGlobali.Check] = Program.VariabiliGlobali.NomeUtente + ";" + Punteggio;
 
-                        StreamWriter file = new StreamWriter("Salvataggi.txt");
+                     StreamWriter file = new StreamWriter("Salvataggi.txt");
 
-                    try { File.WriteAllLines("Salvataggi.txt", righe); }
+                    File.WriteAllLines("Salvataggi.txt", righe);
+                        file.Close();
+                    }
                     catch (Exception s)
                     {
                         MessageBox.Show("Tipo di errore: " + s.ToString());
                     }
 
-                    file.Close();
+                   
                 }
                 else{
                         StreamWriter file = new StreamWriter("Salvataggi.txt", append: true);
